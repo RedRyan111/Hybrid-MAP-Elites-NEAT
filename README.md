@@ -10,7 +10,7 @@ The two criteria that saved an agent onto the MAP-Elites were its average horizo
 
 **Hybrid of both algorithms where NEAT runs generation buffer that saves MAP-Elites and where MAP-Elites come back during crossover**
 
-MAP-Elites using NEAT mutation and crossover functions | Pure NEAT where MAP-Elites are saved | Hybrid of both algorithms where NEAT runs generation buffer that saves MAP-Elites and where MAP-Elites come back during crossover
+MAP-Elites using NEAT mutation and crossover functions | Pure NEAT where MAP-Elites are saved | Hybrid where both algorithms run buffer that interacts together
 ------------ | ------------- | -------------
 ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/MAP-Pure-saved-elites-w-weighted-graphs.png) | ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/MAP-Pure-saved-elites-w-weighted-graphs.png) | ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/MAP-Pure-saved-elites-w-weighted-graphs.png)
 
