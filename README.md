@@ -13,7 +13,6 @@ The two criteria that saved an agent onto the MAP-Elites were its average horizo
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 Pure NEAT | Pure MAP-Elites | Hybrid Algorithm
 ------------ | -------------
