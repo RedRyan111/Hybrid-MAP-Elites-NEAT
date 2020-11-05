@@ -3,12 +3,6 @@ Hybrid algorithm where both NEAT and MAP-Elites run respective model archives an
 
 The two criteria that saved an agent onto the MAP-Elites were its average horizontal speed and the percentage of time both legs were on the ground. 
 
-**MAP-Elites using NEAT mutation and crossover functions**
-
-
-**Pure NEAT where MAP-Elites are saved**
-
-**Hybrid of both algorithms where NEAT runs generation buffer that saves MAP-Elites and where MAP-Elites come back during crossover**
 
 MAP-Elites using NEAT mutation and crossover functions | Pure NEAT where MAP-Elites are saved | Hybrid where both algorithms interact together
 ------------ | ------------- | -------------
