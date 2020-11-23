@@ -8,15 +8,3 @@ The two criteria that saved an agent onto the MAP-Elites were its average horizo
 MAP-Elites using NEAT mutation and crossover functions | Pure NEAT where MAP-Elites are saved | Hybrid where both algorithms interact together
 ------------ | ------------- | -------------
 ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/MAP-Pure-saved-elites-w-weighted-graphs.png) | ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/NEAT-Pure-fixed-saved-elites.png) | ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/temp_try_elites.png)
-
-**Plots of Average Reward vs Generation number**
-
-MAP-Elites using NEAT mutation and crossover functions | Pure NEAT where MAP-Elites are saved | Hybrid where both algorithms interact together
------------- | ------------- | -------------
-![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/MAP-Pure-saved-elites-w-weighted-graphs.png) | ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/NEAT-Pure-fixed-saved-elites.png) | ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/temp_try_elites.png)
-
-**Plots of Highest Reward vs Generation number**
-
-MAP-Elites using NEAT mutation and crossover functions | Pure NEAT where MAP-Elites are saved | Hybrid where both algorithms interact together
------------- | ------------- | -------------
-![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/MAP-Pure-saved-elites-w-weighted-graphs.png) | ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/NEAT-Pure-fixed-saved-elites.png) | ![](https://github.com/RedRyan111/Hybrid-MAP-Elites-NEAT/blob/main/Plots/temp_try_elites.png)
